@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Yatharth!](https://yatharth1706.github.io).
 
-I am passionate full stack web developer.
+I am a Full stack web developer. I believe in Hard work.
 
 - 🔭 I’m currently working on [DevBlogs](https://github.com/yatharth1706/DevBlogs)
 - 🌱 I’m currently learning React
