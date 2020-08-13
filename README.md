@@ -8,4 +8,4 @@ I am a Full stack web developer. I believe in Hard work.
 - 📫 How to reach me: yatharthverma070@gmail.com
 
 
-[![Yatharth's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yatharth1706)](https://github.com/anuraghazra/github-readme-stats)
+[![Yatharth's github stats](https://github-readme-stats.vercel.app/api?username=yatharth1706&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
