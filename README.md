@@ -1,9 +1,8 @@
 ### Hi there 👋 I am [Yatharth!](https://yatharth1706.github.io).
 
-I am a Full stack web developer. I love web development
+I am a Full stack web developer. I love NextJS, Open source, love building stuff.
 
 - 🔭 I’m currently working in LeadSquared, Bangalore
-- 🌱 I love javascript.
 - 🚀 My Youtube Channel (~1250 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
