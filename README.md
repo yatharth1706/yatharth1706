@@ -2,7 +2,7 @@
 
 I am a Full stack web developer. I love NextJS, Open source, love building stuff.
 
-- 🔭 I’m currently working in LeadSquared, Bangalore
+- 🔭 I’m currently working in **LeadSquared**, Bangalore
 - 🚀 My Youtube Channel (~1250 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
@@ -24,4 +24,5 @@ I am a Full stack web developer. I love NextJS, Open source, love building stuff
 ![](https://img.shields.io/badge/Firebase-1CC27F?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## My Github Status
-[![Yatharth's github stats](https://github-readme-stats.vercel.app/api?username=yatharth1706&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth1706&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yatharth's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth1706&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
