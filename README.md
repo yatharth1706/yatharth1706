@@ -23,6 +23,3 @@ I am a Full stack web developer. I love NextJS, Open source, love building stuff
 ![](https://img.shields.io/badge/AdobeXD-0AC97F?style=for-the-badge&logo=adobexd&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-1CC27F?style=for-the-badge&logo=firebase&logoColor=white)
 
-## My Github Status
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth1706&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yatharth's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharth1706&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
