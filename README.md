@@ -11,6 +11,7 @@ Full stack web developer with 2+ years of experience. I love NextJS, Open source
 - 🚀 My Youtube Channel (~1340 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
+- 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
