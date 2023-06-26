@@ -13,7 +13,7 @@ Full stack web developer with 2+ years of experience. I love NextJS, Open source
 - 📫 How to reach me: yatharthverma070@gmail.com
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
-- 🏗️ Building TaskBuddy & FormVibe
+- 🏗️ Building TaskBuddy & FormVibe (Typeform alternative)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
