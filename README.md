@@ -4,7 +4,7 @@
 [![Linkedin: Yatharth Verma](https://img.shields.io/badge/-Yatharth%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/yatharth-verma-938924169/)
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
-Full stack web developer with 3+ years of experience. I love NextJS, Open source, love building stuff.
+I am a full stack web developer with 3+ years of experience. I love NextJS, Open source, love building stuff.
 
 - 🔭 I’m currently working in **LeadSquared**, Bangalore
 - 🖋️ Tinkering with framer and rive.
