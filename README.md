@@ -14,6 +14,7 @@ I am a full stack web developer with 3+ years of experience. I love NextJS, Open
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
 - 🏗️ Building TaskBuddy & FormVibe (Typeform alternative)
+- Bought macbook pro m2 (Date: Aug 24 2023) 💻
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
