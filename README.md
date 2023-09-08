@@ -7,13 +7,13 @@
 I am a full stack web developer with 3+ years of experience. I love NextJS, Open source, love building stuff.
 
 - 🔭 I’m currently working in **LeadSquared**, Bangalore
-- 🖋️ Tinkering with framer and rive.
+- 🖋️ Tinkering with framer motion and rive.
 - 🚀 My Youtube Channel (~1630 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
-- 🏗️ Building TaskBuddy & FormVibe (Typeform alternative)
+- 🏗️ Building FormVibe (Typeform alternative)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24 2023)
 
 ## My skills 🚀
