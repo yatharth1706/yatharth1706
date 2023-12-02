@@ -4,7 +4,7 @@
 [![Linkedin: Yatharth Verma](https://img.shields.io/badge/-Yatharth%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/yatharth-verma-938924169/)
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
-I am a full stack web developer with 2.5+ years of experience. I love NextJS, Open source, love building stuff.
+I am a full stack web developer with 2.7+ years of experience. I love NextJS, Open source, love building stuff.
 
 - 🔭 I’m currently working in **LeadSquared**, Bangalore
 - 🖋️ Tinkering with framer motion and rive.
@@ -15,6 +15,8 @@ I am a full stack web developer with 2.5+ years of experience. I love NextJS, Op
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
 - 🏗️ Building FormVibe (Typeform alternative)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24 2023)
+- Last day at LeadSquared coming soon (Date: 25 Dec 2023)
+- Joining a early stage startup soon (Date: 27 Dec 2023)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
