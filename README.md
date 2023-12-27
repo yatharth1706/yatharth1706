@@ -6,17 +6,15 @@
 
 I am a full stack web developer with 2.7+ years of experience. I love NextJS, Open source, love building stuff.
 
-- 🔭 I’m currently working in **LeadSquared**, Bangalore
+- 🔭 I’m currently working in **Artisan AI**.
 - 🖋️ Tinkering with framer motion and rive.
-- 🚀 My Youtube Channel (~2270 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
+- 🚀 My Youtube Channel (~2600 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
 - 🏗️ Building FormVibe (Typeform alternative)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24 2023)
-- Last day at LeadSquared coming soon (Date: 25 Dec 2023)
-- Joining a early stage startup soon (Date: 27 Dec 2023)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
