@@ -4,10 +4,8 @@
 [![Linkedin: Yatharth Verma](https://img.shields.io/badge/-Yatharth%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/yatharth-verma-938924169/)
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
-I am a full stack web developer with 2.7+ years of experience. I love NextJS, Open source, love building stuff.
-
 - 🔭 I’m currently working in **Artisan AI**.
-- 🖋️ Tinkering with framer motion and rive.
+- 🖋️ Tinkering with framer motion, rive, python, django and docker.
 - 🚀 My Youtube Channel (~2600 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
