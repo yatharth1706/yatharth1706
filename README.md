@@ -11,7 +11,7 @@
 - 📫 How to reach me: yatharthverma070@gmail.com
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
-- 🏗️ Building FormVibe (Typeform alternative)
+- 🏗️ Built FormVibe (Typeform alternative: https://form-vibe.vercel.app/)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24 2023)
 
 ## My skills 🚀
