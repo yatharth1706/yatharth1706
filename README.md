@@ -12,8 +12,8 @@
 - 🌐 My Personal Website: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
 - 🏗️ Built FormVibe (Typeform alternative: https://form-vibe.vercel.app/)
-- 💻 Bought Macbook Pro M2 (Date: Aug 24 2023)
-- Joined early stage startup - (27th December 2023)
+- 💻 Bought Macbook Pro M2 (Date: Aug 24, 2023)
+- Joined early stage startup - (Dec 27, 2023)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
