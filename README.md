@@ -10,7 +10,7 @@
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 How to reach me: yatharthverma070@gmail.com
 - 🌐 My Personal Website: https://yatharthverma.dev
-- 🖋️ All my blogs are here. Do checkout them. https://blog.yatharthverma.dev/
+- 🖋️ All my blogs are here. Do checkout them: https://blog.yatharthverma.dev/
 - 🏗️ Built FormVibe (Typeform alternative: https://form-vibe.vercel.app/)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24, 2023)
 - Joined early stage startup - (Dec 27, 2023)
