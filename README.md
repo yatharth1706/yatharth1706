@@ -4,15 +4,15 @@
 [![Linkedin: Yatharth Verma](https://img.shields.io/badge/-Yatharth%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/yatharth-verma-938924169/)
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
-- 🖋️ Tinkering with framer motion, rive, python, django and docker.
-- 🚀 My Youtube Channel (~2600 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
+- 💻 Full stack software engineer with 4+ years of experience.
+- 🚀 I have a youtube channel as well where i post technical videos. Its silent from sometime, but will definitely make some content (~2600 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
-- 📫 How to reach me: yatharthverma070@gmail.com
-- 🌐 My Personal Website: https://yatharthverma.dev
+- 📫 You can reach me via my email: yatharthverma070@gmail.com
+- 🌐 I have a portfolio as well: https://yatharthverma.dev
 - 🖋️ All my blogs are here. Do checkout them: https://blog.yatharthverma.dev/
 - 🏗️ Built FormVibe (Typeform alternative: https://form-vibe.vercel.app/)
 - 💻 Bought Macbook Pro M2 (Date: Aug 24, 2023)
-- Joined early stage startup - (Dec 27, 2023)
+- 💻 Joined early stage startup - (Dec 27, 2023)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
