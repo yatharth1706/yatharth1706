@@ -5,7 +5,7 @@
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
 - 💻 Full stack software engineer with 4+ years of experience.
-- 🚀 I have a youtube channel as well where i post technical videos. Its silent from sometime, but will definitely make some content (~2600 Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
+- 🚀 I have a youtube channel as well where i post technical videos. (~3K+ Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 You can reach me via my email: yatharthverma070@gmail.com
 - 🌐 I have a portfolio as well: https://yatharthverma.dev
