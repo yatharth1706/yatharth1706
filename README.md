@@ -4,7 +4,7 @@
 [![Linkedin: Yatharth Verma](https://img.shields.io/badge/-Yatharth%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yatharth-verma-938924169/)](https://www.linkedin.com/in/yatharth-verma-938924169/)
 [![Twitter: Yatharth Verma](https://img.shields.io/twitter/follow/yatharth170699?style=social)](https://twitter.com/yatharth170699)
 
-- 💻 Full stack software engineer with 4+ years of experience.
+- 💻 Full stack software engineer with 5+ years of experience.
 - 🚀 I have a youtube channel as well where i post technical videos. (~3K+ Subscribers) [Yatharth Verma](https://www.youtube.com/c/YatharthVerma)
 - 💬 Ask me about anything [here](https://github.com/yatharth1706/yatharth1706/issues)
 - 📫 You can reach me via my email: yatharthverma070@gmail.com
